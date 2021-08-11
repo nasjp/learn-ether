@@ -1,0 +1,5 @@
+/eth_private_net/*
+/mainnet_data/*
+!/eth_private_net/myGenesis.json
+*.abi
+*.bin
